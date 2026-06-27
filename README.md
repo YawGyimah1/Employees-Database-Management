@@ -11,7 +11,7 @@ A SQL Server project involving the creation, data insertion, and querying of an 
 - How to query relational datasets.
 
 ## Preview
-[EmployeeDB-Queries screenshot](...)
+[EmployeeDB-Queries screenshot](https://github.com/YawGyimah1/Employees-Database-Management/blob/main/Screenshot%202026-06-27%20075800.png)
 
 > Click on the image above to see a preview of the final project
 
